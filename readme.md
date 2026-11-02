@@ -543,3 +543,6 @@ Django
    登录注册、增删改查、分页、搜索、文件上传
 
 建议下一步直接做一个 Django + SQLite 的 CRUD 学习项目，从环境、数据库、页面到接口全部跑通。
+
+A step-by-step solution for the official Django tutorial
+https://github.com/consideratecode/django-tutorial-step-by-step
